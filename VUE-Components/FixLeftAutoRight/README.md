@@ -8,8 +8,8 @@
 <template>
   <div>
     <fix-left-auto-right :width="80">
-        <span slot="left">案例要旨：</span>
-        <span slot="right">出版社作为专业出版单位，应对稿件来源、署名以及是否经权利人授权等进行审查，特别是在社会公众中享有较高知名度的作品以及权利人多次通过报刊杂志等形式进行过权利声明的作品，应负有更高的注意义务。出版社多次侵权出版，且拒绝提供根据国务院《印刷业管理条例》必须备案的印刷委托书，权利人主张该印刷委托书的内容不利于出版社的，推定该主张成立，由此产生的不利后果由出版社自行承担。</span>
+        <span slot="left">左侧固定</span>
+        <span slot="right">右侧自适应</span>
     </fix-left-auto-right>
   </div>
 </template>

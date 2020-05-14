@@ -1,4 +1,4 @@
-import FixLeftAutoRight from './fixLeftAutoRight.vue'
+import FixLeftAutoRight from './FixLeftAutoRight.vue'
 import './style.scss'
 
 FixLeftAutoRight.install = function (Vue) {

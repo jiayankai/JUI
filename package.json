@@ -1,6 +1,6 @@
 {
   "name": "JUI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "提供一些常用组件和方法、服务。部分组件会基于element-ui。",
   "main": "index.js",
   "scripts": {
