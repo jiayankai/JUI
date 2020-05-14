@@ -1,0 +1,8 @@
+.fix-left-auto-right-container {
+  overflow: hidden;
+
+  .fix-left,
+  .auto-right {
+    overflow: hidden;
+  }
+}

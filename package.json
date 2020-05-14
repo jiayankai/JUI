@@ -1,0 +1,20 @@
+{
+  "name": "JUI",
+  "version": "1.0.0",
+  "description": "提供一些常用组件和方法、服务。部分组件会基于element-ui。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiayankai/JUI.git"
+  },
+  "keywords": ["JUI", "VUE", "Service"],
+  "author": "jiayankai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiayankai/JUI/issues"
+  },
+  "homepage": "https://github.com/jiayankai/JUI#readme"
+}
